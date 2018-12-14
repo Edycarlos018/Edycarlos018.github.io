@@ -1,31 +1,40 @@
-#modalbackground{
+#modalbackground {
     position: absolute;
     z-index: 20;
     margin-top: -34px;
     margin-left: 37%;
 }
+
 .intro .text-slider-items {
     display: none;
     position: absolute;
     z-index: 20;
-    
 }
-.intro{
+
+.intro {
     position: absolute;
     z-index: 20;
     margin-top: 11em;
     margin-left: 43%;
-    font-size: 20px;
-    color:wheat;
+    font-size: 30px;
+    color: wheat;
+}
 
-  }
-  #img{
-      width: 80px;
-      height: 120px;
-  }
-  #modalbackground2{
+#img {
+    width: 100px;
+    height: 140px;
+}
+
+#modalbackground2 {
     position: absolute;
     z-index: 20;
     margin-top: -34px;
     margin-left: 43%;
-  }
+}
+
+#exampleModalLong {
+    position: absolute;
+    z-index: 20;
+    margin-top: -34px;
+    margin-left: 43%;
+}
