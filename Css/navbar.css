@@ -85,32 +85,36 @@
 #csharp {
     width: 100px;
     height: 100px;
-    margin-top: -40px;
-    margin-left: -34px;
+    margin-top: 0px;
+    margin-left: 0px;
 }
 
 #csshtml {
-    margin-left: 63px;
-    margin-top: -106px;
+    margin-left: 0px;
+    margin-top: 0px;
     width: 100px;
     height: 79px;
 }
 
 #net {
-    margin-left: 146px;
-    margin-top: -192px;
+    margin-left: 0px;
+    margin-top: 0px;
     width: 100px;
     height: 107px;
 }
+
 #home{
     margin-left: 1px;
     margin-top: 1px;
 }
 #aboutme{
-    margin-left: -73em;
+    margin-left: 45em;
     margin-top: 1px;
 }
 #portfolio{
-    margin-left: -70em;
+    margin-left: 0em;
     margin-top: 1px; 
+}
+.edsonnav{
+    display: inline;
 }
