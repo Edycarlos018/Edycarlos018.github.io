@@ -86,7 +86,7 @@
     width: 100px;
     height: 100px;
     margin-top: 0px;
-    margin-left: 0px;
+    margin-left: em;
 }
 
 #csshtml {
@@ -94,6 +94,10 @@
     margin-top: 0px;
     width: 100px;
     height: 79px;
+}
+#portfoliomodaltext{
+    margin-left: -31.2em;
+    text-align: center;
 }
 
 #net {
@@ -103,6 +107,9 @@
     height: 107px;
 }
 
+.modal-header{
+    display: inline;
+}
 #home{
     margin-left: 1px;
     margin-top: 1px;
@@ -117,4 +124,7 @@
 }
 .edsonnav{
     display: inline;
+}
+h4{
+    font-size: 12px;
 }
