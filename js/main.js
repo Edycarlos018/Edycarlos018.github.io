@@ -7,3 +7,4 @@ if ($('.text-slider').length == 1) {
     backDelay: 1100,
     backSpeed: 30
   });}
+  

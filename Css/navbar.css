@@ -102,3 +102,15 @@
     width: 100px;
     height: 107px;
 }
+#home{
+    margin-left: 1px;
+    margin-top: 1px;
+}
+#aboutme{
+    margin-left: -73em;
+    margin-top: 1px;
+}
+#portfolio{
+    margin-left: -70em;
+    margin-top: 1px; 
+}

@@ -38,3 +38,30 @@
     margin-top: -34px;
     margin-left: 43%;
 }
+/* Start of Skills section */
+#bootstrap{
+    width: 100px;
+    height: 100px;
+}
+#skillstext{
+    color:black;
+    margin-top: 1px;
+}
+.carousel-caption {
+    bottom: -14px;
+}
+/* end of Skills section */
+#carousel2{
+    width: 1049px;
+    height: 200px;
+}
+#skills{
+  color: black;
+  margin-left: 1px;
+  margin-top: 1px;  
+  min-height: 7em;
+}
+.carousel-caption{
+    height: 200px;
+    top: 1px;
+}
