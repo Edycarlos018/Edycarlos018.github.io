@@ -12,6 +12,13 @@
     align-items: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    margin-left: -66em;
+  }
+  #row1{
+    margin-left: 0em;
+  }
+  .btn-lg{
+      margin-left: 22.7em
   }
   
   h1, h3 {

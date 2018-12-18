@@ -14,7 +14,7 @@
 .intro {
     position: absolute;
     z-index: 20;
-    margin-top: 11em;
+    margin-top: 15em;
     margin-left: 43%;
     font-size: 30px;
     color: wheat;
@@ -37,6 +37,10 @@
     z-index: 20;
     margin-top: -34px;
     margin-left: 43%;
+}
+.aboutmetext{
+color:black;
+text-align: center;
 }
 /* Start of Skills section */
 #bootstrap{
