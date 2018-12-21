@@ -3,7 +3,6 @@
 @import "navbar.css";
 @import "header.css";
 @import "about.css";
-@import "project";
-@import "contact";
-@import "footer";
-@import "main.js";
+@import "project.css";
+@import "contact.css";
+@import "footer.css";
